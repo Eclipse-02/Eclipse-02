@@ -5,7 +5,7 @@ A Student (currently) at SMK Wikrama 1 Garut who loves to create and share proje
 I'm currently active in contributing as Field Work Practice Developer at <a href="https://www.linkedin.com/company/pt-al-ijarah-indonesia-finance/?originalSubdomain=id">PT. Al Ijarah Indonesia Finance</a> to build ERD in Front-End Apps (Web, Android) and Back-End Service.
 
 - 🔭 I’m currently working on <a href="https://travel-web.my.id">Travel Management App</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
+- 🌱 I’m currently learning about Multi-Platform App
 - 💬 Feel free to ask me about web development or Laravel
 - 📫 How to reach me: rafaumar22@gmail.com
 - ⚡ Fun fact: Lazy but efficient
