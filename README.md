@@ -13,6 +13,7 @@ I'm currently active in contributing as Field Work Practice Developer at <a href
 ### Tech Stack
   </a>
   <a href="https://laravel.com"><img align="left" alt="Laravel (PHP Framework)" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />
+  <a href="https://codeigniter.com/"><img align="left" alt="CodeIgniter" title="CodeIgniter (PHP Framework)" width="23px" src="https://codeigniter.com/assets/icons/ci-logo.png" /></a>
   <a href="https://www.python.org"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
   <a href="https://flutter.dev"><img align="left" alt="Flutter" title="Flutter (Dart Framework)" width="63px" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" /></a>
   </a>
