@@ -65,8 +65,8 @@ Sistem Informasi student (D-III, UPNVJ Fasilkom) with hands-on experience as a F
 - **[ERP-Travel-Umroh](https://github.com/Eclipse-02/ERP-Travel-Umroh)** — ERP & financial system built with Laravel for PT. Astri Duta Mandiri
 - **[AnimaVibe-Social](https://github.com/Eclipse-02/AnimaVibe-Social)** — React Native + Expo social app with immersive animations; served as Product Manager & developer
 - **[Vaulted](https://github.com/Ampasan/Vaulted)** — Luxury goods marketplace (Express.js, React, MongoDB) with Xendit payment integration
-- **[whiteboard-app](https://github.com/Eclipse-02/whiteboard-app)** — Collaborative whiteboard built in TypeScript
-- **[EatRight](https://github.com/Ampasan/EatRight)** — PHP-based application
+- **[whiteboard-app](https://github.com/Eclipse-02/whiteboard-app)** — Collaborative whiteboard built in TypeScript; Capstone Project for the Code Generation and Optimization track, Student Developer Initiative bootcamp by Hacktiv8
+- **[EatRight](https://github.com/Ampasan/EatRight)** — Built for a hackathon by Google Developer Group on Campus - Universitas Gunadarma; served as Frontend (React-Vite) in a 5-person team with Laravel backend, reached semifinals
 - **SIEM with Wazuh + ELK Stack** — Deployed on Ubuntu/WSL2, simulated 5 attack scenarios end-to-end with full reporting
 
 ### GitHub Stats
