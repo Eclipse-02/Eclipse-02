@@ -1,36 +1,76 @@
-![👋 Hi, my name is Umar](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+<h1 align="center">👋 Hi, I'm Rafa (R.U.A.S)</h1>
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Umar
-      </h1>
-    </summary>
-  </ul>
-</div>
+<h3 align="center">Full Stack Developer | Sistem Informasi Student @ UPNVJ | Building things across web, mobile & backend</h3>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/Eclipse-02" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/rafa-umar-abdus-syakur" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="rafaumar22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafa-umar-abdus-syakur"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rafaumar22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Eclipse-02"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
- **<h3 align="left">🚀 Undergraduate who's interested in app development, whether It's web or mobile application. Exploring all kind of languages to increase my knowledge and understanding recent tech trends.</h3>**
+### About Me
+Sistem Informasi student (D-III, UPNVJ Fasilkom) with hands-on experience as a Full Stack Developer, having built an ERP & financial system in production. Currently open to and actively applying for internship opportunities in the Indonesian tech industry. I enjoy exploring different corners of software like web, mobile, backend, security, and data while picking up whatever tools a project actually needs.
 
-**<h3 align="left">Rapid Fire</h3>**
+### Rapid Fire
+- **Currently:** Applying for internships while building a finance & accounting management system for a client
+- **Currently learning:** Security operations. Recently completed a SIEM implementation with Wazuh + ELK Stack, simulating real attack scenarios
+- **Ask me about:** Laravel, React Native, RESTful APIs, and mobile app development
+- **Fun fact:** Solely developed a full ERP application (Laravel) for a company within 6 months
+- **Off the clock:** Gaming while thinking about next project ideas
 
-- 💼 I'm currently working on: **💻 Developing a e-commerce platform for games**
-- 🌱 I'm currently learning: **📚 Automation**
-- 💬 Ask me about: **💡 Laravel, Next.js, and RESTful APIs**
-- ⚡ Fun fact: **🎢 Solely developed an ERP application within 6 month**
+### Skills
 
- **<h3 align="center">Skills</h3>**
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" />
+</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" height="28" alt="C++" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="28" alt="PHP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" height="28" alt="Dart" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="28" alt="jQuery" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Laravel-F05032?logo=laravel&logoColor=white" height="28" alt="Laravel" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="28" alt="Flutter" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="28" alt="TensorFlow" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" height="28" alt="Keras" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="28" alt="Firebase" style="margin-right: 4px"></div>
+**Frameworks & Libraries**
+<p>
+<img src="https://img.shields.io/badge/Laravel-F05032?logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+</p>
 
- **<h3 align="left">GitHub Stats</h3>**
+**Data & Backend**
+<p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" />
+</p>
 
-<p align="left">
-<a href="https://github.com/Eclipse-02">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eclipse-02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eclipse-02&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+**Security & Tools**
+<p>
+<img src="https://img.shields.io/badge/Wazuh-3AB6E6?logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/Elastic_Stack-005571?logo=elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" />
+</p>
+
+### Featured Projects
+
+- **[ERP-Travel-Umroh](https://github.com/Eclipse-02/ERP-Travel-Umroh)** — ERP & financial system built with Laravel for PT. Astri Duta Mandiri
+- **[AnimaVibe-Social](https://github.com/Eclipse-02/AnimaVibe-Social)** — React Native + Expo social app with immersive animations; served as Product Manager & developer
+- **[Vaulted](https://github.com/Ampasan/Vaulted)** — Luxury goods marketplace (Express.js, React, MongoDB) with Xendit payment integration
+- **[whiteboard-app](https://github.com/Eclipse-02/whiteboard-app)** — Collaborative whiteboard built in TypeScript
+- **[EatRight](https://github.com/Ampasan/EatRight)** — PHP-based application
+- **SIEM with Wazuh + ELK Stack** — Deployed on Ubuntu/WSL2, simulated 5 attack scenarios end-to-end with full reporting
+
+### GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eclipse-02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eclipse-02&layout=compact&langs_count=8&theme=algolia" />
 </p>
